@@ -1,0 +1,20 @@
+{
+  "name": "db-server-tt",
+  "version": "1.0.0",
+  "description": "A simple node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "run tests",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tam-borine/DBserverTT.git"
+  },
+  "author": "Tam Borine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tam-borine/DBserverTT/issues"
+  },
+  "homepage": "https://github.com/tam-borine/DBserverTT#readme"
+}
